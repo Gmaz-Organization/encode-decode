@@ -13,8 +13,8 @@ The app is designed to encode and decode text/strings securely.
 ## Screenshots
 
 <div align="center">
-  <img alt="EncodeDecode GUI - Screenshot 1" src="example/encoding.PNG" width="500" />
-  <img alt="EncodeDecode GUI - Screenshot 2" src="example/decoding.PNG" width="500" />
+  <img alt="EncodeDecode GUI - Screenshot 1" src="example/encoding.PNG" width="650" />
+  <img alt="EncodeDecode GUI - Screenshot 2" src="example/decoding.PNG" width="650" />
 </div>
 
 ---
